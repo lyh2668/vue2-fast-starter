@@ -1,7 +1,5 @@
-# crm-v1
-
-> 国脉CRM客户管理系统移动端
-
+# 快速构建
+> 快速构建Vue应用
 ## Build Setup
 
 ``` bash
